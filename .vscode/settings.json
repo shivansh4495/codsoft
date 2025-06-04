@@ -34,5 +34,8 @@
         "terminal.ansiRed": "#DB2D20",
         "terminal.ansiWhite": "#A5A2A2",
         "terminal.ansiYellow": "#FDED02"
-    }
+    },
+    // For ma
+    "python.terminal.focusAfterLaunch": false,
+    "terminal.explorerKind": "external"
 }
